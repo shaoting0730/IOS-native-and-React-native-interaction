@@ -6,9 +6,14 @@
      2.xcode启动项目 
 
 NativeAddRN.zip 
+![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/1.gif) 
 
 RNtoNative.zip
+![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/3.gif) 
 
 full-version.zip
+![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/5.gif) 
 
 开发环境如下:
+![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/2.jpg) 
+
