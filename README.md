@@ -1,10 +1,10 @@
 # 关于iOS原生和react-native的交互 <br/>
 为了去除开发环境的影响,故对demo压缩处理,下载即可运行.<br/>
-##细节请看博客: 
-      1. [ 怎么在iOS原生中添加react-native模块 ]( http://www.cnblogs.com/shaoting/p/6388502.html )
-      2. 
-运行: 1.cd  ReactComponent文件夹下,  npm start 启动服务
-     2.xcode启动项目 
+##细节请看博客: <br/>
+      1. [ 怎么在iOS原生中添加react-native模块 ]( http://www.cnblogs.com/shaoting/p/6388502.html ) 
+      2. <br/>
+运行: 1.cd  ReactComponent文件夹下,  npm start 启动服务<br/>
+     2.xcode启动项目   
 
 NativeAddRN.zip 
 ![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/1.gif) 
