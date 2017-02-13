@@ -5,17 +5,17 @@
       2. XXXX  <br/>
 ##
 运行: 1.cd  ReactComponent文件夹下,  npm start 启动服务 <br/>
-     2.xcode启动项目    
+     2.xcode启动项目     <br/>
 
-NativeAddRN.zip 
+NativeAddRN.zip  <br/>
 ![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/1.gif) 
 
-RNtoNative.zip
+RNtoNative.zip <br/>
 ![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/3.gif) 
 
-full-version.zip
+full-version.zip <br/>
 ![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/5.gif) 
 
-开发环境如下:
+开发环境如下: <br/>
 ![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/2.jpg) 
 
