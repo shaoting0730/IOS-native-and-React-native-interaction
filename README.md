@@ -16,6 +16,9 @@ RNtoNative.zip <br/>
 full-version.zip <br/>
 ![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/5.gif) 
 
+RNAddNative.zip <br/>
+![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/4.gif)
+
 开发环境如下: <br/>
 ![image](https://github.com/pheromone/IOS-native-and-React-native-interaction/blob/master/2.jpg) 
 
