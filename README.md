@@ -6,7 +6,7 @@
       3. [ iOS原生和React-Native之间的交互1 ]( http://www.cnblogs.com/shaoting/p/6392390.html ) 
       4. [ iOS原生和React-Native之间的交互2 ]( http://www.cnblogs.com/shaoting/p/6491978.html ) 
       
-      <br/>
+      
 ##
 运行: 1.cd  ReactComponent文件夹下,  npm start 启动服务 <br/>
      2.xcode启动项目     <br/>
