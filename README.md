@@ -6,7 +6,7 @@
       3. [ iOS原生和React-Native之间的交互1 ]( http://www.cnblogs.com/shaoting/p/6392390.html ) 
       4. [ iOS原生和React-Native之间的交互2 ]( http://www.cnblogs.com/shaoting/p/6491978.html ) <br/>
       5. [ iOS原生和React-Native 0.50交互的坑 && swift 与 RN的交互 ]( http://www.cnblogs.com/shaoting/p/7954451.html )  <br/>
-      6. [ iOS原生和React-Native视图混编 ]( hhttp://www.cnblogs.com/shaoting/p/8006696.html )
+      6. [ iOS原生和React-Native视图混编 ]( http://www.cnblogs.com/shaoting/p/8006696.html ) <br/>
       
       
 ##
