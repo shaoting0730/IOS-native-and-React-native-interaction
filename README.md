@@ -7,6 +7,11 @@
       4. [ iOS原生和React-Native之间的交互2 ]( http://www.cnblogs.com/shaoting/p/6491978.html ) <br/>
       5. [ iOS原生和React-Native 0.50交互的坑 && swift 与 RN的交互 ]( http://www.cnblogs.com/shaoting/p/7954451.html )  <br/>
       6. [ iOS原生和React-Native视图混编 ]( http://www.cnblogs.com/shaoting/p/8006696.html ) <br/>
+      7. [ react-navigation的基本使用] (https://github.com/pheromone/react-navigation-use/tree/master) <br/> 
+      8. [ react-navigatio和redux的结合使用] (https://github.com/pheromone/RN_nav) <br/> 
+      9. [ 安卓和安卓原生的基本交互] (https://github.com/pheromone/androidrn) <br/> 
+ 
+      
       
       
 ##
