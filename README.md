@@ -1,5 +1,7 @@
 # 关于iOS原生和react-native的交互 <br/>
 # 为了去除开发环境的影响,故对demo压缩处理,下载即可运行. <br/>
+### 下载单个项目,复制单个项目url到下面网址即可.
+> [ DownGit ]( https://minhaskamal.github.io/DownGit/#/home )   <br/>
 ## 细节请看博客: <br/>
       1. [ iOS原生项目中集成react-native模块 ]( http://www.cnblogs.com/shaoting/p/6388502.html )   
       2. [ React Native项目集成iOS原生模块 ]( http://www.cnblogs.com/shaoting/p/6429845.html) <br/>
